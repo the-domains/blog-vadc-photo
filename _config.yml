@@ -1,0 +1,14 @@
+layout_spectrum: 0.3240266290958971
+typography_spectrum: 0.22092796419747174
+color:
+  brandStrength: 0.21812019008211792
+  lightness: 0.5684158897493035
+  saturation: 0.4048822808545083
+  rhythmicContrast: 0.08344918955117464
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: blog VADC PHOTO
