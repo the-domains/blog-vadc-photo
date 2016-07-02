@@ -1,20 +1,20 @@
-typography_spectrum: 0.531616440275684
+typography_spectrum: 0.22092796419747174
 content_rating:
   adult: false
 color:
-  brandStrength: 0.13807509653270245
-  lightness: 0.3955369375180453
-  saturation: 0.31896372488699853
-  rhythmicContrast: 0.8578743119724095
+  brandStrength: 0.21812019008211792
+  lightness: 0.5684158897493035
+  saturation: 0.4048822808545083
+  rhythmicContrast: 0.08344918955117464
   brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-layout_spectrum: 0.35542970593087375
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.3240266290958971
 author:
   name: Vincent Assante Di Cupillo
   email: Vadc@vadc-photo.com
-  url: Www.vadc-photo.com
+  url: vadc-photo.com
 name: blog VADC PHOTO
