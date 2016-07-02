@@ -1,19 +1,10 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.2212766
+typography_spectrum: 0.22092796419747174
+content_rating:
+  adult: false
 color:
+  brandStrength: 0.21812019008211792
+  lightness: 0.5684158897493035
   saturation: 0.4048822808545083
-  brandStrength: 0.2181201900821179
   rhythmicContrast: 0.08344918955117464
   brandColors:
     - '#000000'
@@ -21,6 +12,9 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  lightness: 0.5684158897493035
 layout_spectrum: 0.3240266290958971
+author:
+  name: Vincent Assante Di Cupillo
+  email: Vadc@vadc-photo.com
+  url: Www.vadc-photo.com
 name: blog VADC PHOTO
