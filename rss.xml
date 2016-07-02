@@ -4,8 +4,15 @@
         <description><![CDATA[blog VADC PHOTO]]></description>
         <link>https://thegrid.ai/blog-vadc-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 15:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 15:18:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog-vadc-photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test TITRE]]></title>
+            <description><![CDATA[<article><h1>Test TITRE</h1><h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor rhoncus sapien. In viverra, ligula non imperdiet faucibus, nisl purus mattis purus, et pretium elit nunc in nunc. Donec volutpat lacus sit amet dictum facilisis. Aliquam in quam vitae enim interdum tempus dictum vitae ante. Sed convallis, ex et rutrum scelerisque, purus magna vulputate lectus, eleifend ultricies orci ex a justo. Sed eget enim sollicitudin, eleifend neque eu, congue mauris. Etiam dignissim arcu cursus accumsan imperdiet. Nunc dolor massa, ornare consequat tincidunt nec, facilisis ac felis. Pellentesque sit amet rhoncus lacus. Etiam iaculis purus ut enim dictum efficitur. Fusce dolor velit, laoreet sed auctor sed, tincidunt a massa. Morbi quis vestibulum nisl, sit amet gravida tortor.</h2><p>Sed dictum et leo in convallis. Ut at bibendum nulla. Proin vitae bibendum augue. Praesent facilisis nulla non felis finibus, quis ultricies massa varius. Proin venenatis mattis aliquam. Aliquam erat volutpat. Suspendisse sit amet arcu ut magna consequat porta vel id risus. Proin aliquam lacinia massa, sit amet efficitur risus tristique nec. Donec molestie, sem viverra dapibus gravida, urna nunc dignissim urna, vel ultrices velit velit et nibh. Cras tempus non metus vitae lobortis.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2bf79a92ff8059ee92303acc13f366d/croprotate.jpg?cropheight=546&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe5b0d3c1-4f0c-4917-8712-c5b1bf8f18b9.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b0d3c1-4f0c-4917-8712-c5b1bf8f18b9.jpg</link>
+            <guid isPermaLink="false">c1cd4227-e9cc-4128-9057-1c98c226507c</guid>
+            <pubDate>Sat, 02 Jul 2016 15:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a970c710de7987e10fef88042e899920/croprotate.jpg?cropheight=546&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg&x=0&y=0"></article>]]></description>
