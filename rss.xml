@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[blog VADC PHOTO]]></title>
+        <description><![CDATA[blog VADC PHOTO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 12:51:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg</link>
+            <guid isPermaLink="false">6bb853f1-e68b-4bcd-bdf4-e4b9288038c3</guid>
+            <pubDate>Sat, 02 Jul 2016 12:51:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
