@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blog VADC PHOTO]]></title>
         <description><![CDATA[blog VADC PHOTO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blog-vadc-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 12:51:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 12:51:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blog-vadc-photo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a970c710de7987e10fef88042e899920/croprotate.jpg?cropheight=546&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg</link>
             <guid isPermaLink="false">6bb853f1-e68b-4bcd-bdf4-e4b9288038c3</guid>
-            <pubDate>Sat, 02 Jul 2016 12:51:21 GMT</pubDate>
+            <pubDate>Sat, 02 Jul 2016 12:51:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
