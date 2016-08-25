@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[blog VADC PHOTO]]></title>
-        <description><![CDATA[blog VADC PHOTO]]></description>
+        <title><![CDATA[TEST]]></title>
+        <description><![CDATA[TEST]]></description>
         <link>https://thegrid.ai/blog-vadc-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 15:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 06:57:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog-vadc-photo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test TITRE]]></title>
-            <description><![CDATA[<article><h1>Test TITRE</h1><h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor rhoncus sapien. In viverra, ligula non imperdiet faucibus, nisl purus mattis purus, et pretium elit nunc in nunc. Donec volutpat lacus sit amet dictum facilisis. Aliquam in quam vitae enim interdum tempus dictum vitae ante. Sed convallis, ex et rutrum scelerisque, purus magna vulputate lectus, eleifend ultricies orci ex a justo. Sed eget enim sollicitudin, eleifend neque eu, congue mauris. Etiam dignissim arcu cursus accumsan imperdiet. Nunc dolor massa, ornare consequat tincidunt nec, facilisis ac felis. Pellentesque sit amet rhoncus lacus. Etiam iaculis purus ut enim dictum efficitur. Fusce dolor velit, laoreet sed auctor sed, tincidunt a massa. Morbi quis vestibulum nisl, sit amet gravida tortor.</h2><p>Sed dictum et leo in convallis. Ut at bibendum nulla. Proin vitae bibendum augue. Praesent facilisis nulla non felis finibus, quis ultricies massa varius. Proin venenatis mattis aliquam. Aliquam erat volutpat. Suspendisse sit amet arcu ut magna consequat porta vel id risus. Proin aliquam lacinia massa, sit amet efficitur risus tristique nec. Donec molestie, sem viverra dapibus gravida, urna nunc dignissim urna, vel ultrices velit velit et nibh. Cras tempus non metus vitae lobortis.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2bf79a92ff8059ee92303acc13f366d/croprotate.jpg?cropheight=546&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe5b0d3c1-4f0c-4917-8712-c5b1bf8f18b9.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Test TITRE</h1><h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor rhoncus sapien. In viverra, ligula non imperdiet faucibus, nisl purus mattis purus, et pretium elit nunc in nunc. Donec volutpat lacus sit amet dictum facilisis. Aliquam in quam vitae enim interdum tempus dictum vitae ante. Sed convallis, ex et rutrum scelerisque, purus magna vulputate lectus, eleifend ultricies orci ex a justo. Sed eget enim sollicitudin, eleifend neque eu, congue mauris. Etiam dignissim arcu cursus accumsan imperdiet. Nunc dolor massa, ornare consequat tincidunt nec, facilisis ac felis. Pellentesque sit amet rhoncus lacus. Etiam iaculis purus ut enim dictum efficitur. Fusce dolor velit, laoreet sed auctor sed, tincidunt a massa. Morbi quis vestibulum nisl, sit amet gravida tortor.</h2><p>Sed dictum et leo in convallis. Ut at bibendum nulla. Proin vitae bibendum augue. Praesent facilisis nulla non felis finibus, quis ultricies massa varius. Proin venenatis mattis aliquam. Aliquam erat volutpat. Suspendisse sit amet arcu ut magna consequat porta vel id risus. Proin aliquam lacinia massa, sit amet efficitur risus tristique nec. Donec molestie, sem viverra dapibus gravida, urna nunc dignissim urna, vel ultrices velit velit et nibh. Cras tempus non metus vitae lobortis.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869617e05fb89b23cfeaf16bcaa1bc8c/croprotate.jpg?cropheight=545&cropwidth=1400&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Faa0a801b196a07e9c41903e5fd79d32807df95b4.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b0d3c1-4f0c-4917-8712-c5b1bf8f18b9.jpg</link>
             <guid isPermaLink="false">c1cd4227-e9cc-4128-9057-1c98c226507c</guid>
             <pubDate>Sat, 02 Jul 2016 15:18:55 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c6e2d8-bb6b-46d8-96e6-121a748ec265.jpg</link>
             <guid isPermaLink="false">6bb853f1-e68b-4bcd-bdf4-e4b9288038c3</guid>
             <pubDate>Sat, 02 Jul 2016 12:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ouest-France : toute l'actualité en direct, l'info en continu en France, dans les régions et dans le monde]]></title>
+            <description><![CDATA[<article><h1>Ouest-France : toute l'actualité en direct, l'info en continu en France, dans les régions et dans le monde</h1><p>Une : toute l'actualité en direct, soyez informé de toute l'info en continu, en images et en vidéos, dans votre région, en France et dans le monde. Partagez et commentez en temps réel, à tout moment de la journée.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6088f36be1fd489d18a1ae0b455d013/noop.png?input=http%3A%2F%2Fwww.ouest-france.fr%2Fsites%2Fall%2Fthemes%2Ffront%2Fimages%2Flogos%2Flogo-of-150x150.png"></article>]]></description>
+            <link>http://www.ouest-france.fr/</link>
+            <guid isPermaLink="false">19024f21-6ac1-4964-8510-396c683aee7b</guid>
+            <pubDate>Thu, 25 Aug 2016 06:57:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
