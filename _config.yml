@@ -18,5 +18,9 @@ author:
   email: Vadc@vadc-photo.com
   url: ''
 name: Divers
+navigation:
+  - name: website
+    url: www.vadc-photo.com
+    type: external
 title: Photos
 description: '& words'
