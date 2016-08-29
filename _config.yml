@@ -18,5 +18,9 @@ author:
   email: Vadc@vadc-photo.com
   url: ''
 name: Photos & Words
+navigation:
+  - name: website
+    url: 'http://www.vadc-photo.com'
+    type: external
 title: Photos
 description: '& words'
