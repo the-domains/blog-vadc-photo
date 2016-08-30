@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Photos]]></title>
-        <description><![CDATA[Photos]]></description>
-        <link>https://thegrid.ai/photos&amp;words/</link>
+        <title><![CDATA[əˈklektik]]></title>
+        <description><![CDATA[əˈklektik]]></description>
+        <link>https://thegrid.ai/eclectic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 05:50:48 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/photos&amp;words/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Aug 2016 15:00:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eclectic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACT]]></title>
+            <description><![CDATA[<h1>CONTACT</h1>]]></description>
+            <link>https://thegrid.ai/eclectic/contact/index.html</link>
+            <guid isPermaLink="false">85a098cd-19ac-40a0-91ad-e18b79698a43</guid>
+            <pubDate>Sun, 28 Aug 2016 15:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2343ef1f-3004-417c-9514-756e5fb7a50d.jpg">]]></description>
+            <link>https://thegrid.ai/eclectic/001c3400-62d4-4326-b6a9-f8ed83e9bac5/index.html</link>
+            <guid isPermaLink="false">001c3400-62d4-4326-b6a9-f8ed83e9bac5</guid>
+            <pubDate>Sun, 28 Aug 2016 14:08:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inspiration | Hong Kong's First Homebuilt Aircraft]]></title>
             <description><![CDATA[<article><h1>Inspiration | Hong Kong's First Homebuilt Aircraft</h1><p>Inspiration, the first homebuilt aircraft that take flight in Hong Kong.</p></article>]]></description>
