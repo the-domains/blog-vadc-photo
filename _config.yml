@@ -1,8 +1,22 @@
+typography_spectrum: 0.2209279641974717
+content_rating:
+  adult: false
+color:
+  saturation: 0.4048822808545083
+  brandStrength: 0.2181201900821179
+  rhythmicContrast: 0.08344918955117464
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.5684158897493035
+layout_spectrum: 1
 author:
   name: Vincent Assante Di Cupillo
   email: Vadc@vadc-photo.com
   url: www.vadc-photo.com
-title: ''
 name: əˈklektik
 collections:
   - index:
@@ -16,19 +30,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: ''
 description: ''
-color:
-  saturation: 0.4048822808545083
-  brandStrength: 0.2181201900821179
-  rhythmicContrast: 0.08344918955117464
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  lightness: 0.5684158897493035
-typography_spectrum: 0.2209279641974717
-content_rating:
-  adult: false
-layout_spectrum: 1
