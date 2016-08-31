@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Wintergatan
-    url: 'https://www.youtube.com/user/wintergatan2000'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-29T17:40:13.649Z'
+sourcePath: _posts/2016-08-29-wintergatan-marble-machine-music-instrument-using-2000-ma.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=IvUU8joBb1Q'
 keywords:
   - wintergatan
   - duration
@@ -20,15 +13,14 @@ keywords:
   - music
   - machine
   - knutssons
-description: >-
-  Get the audio track "Marble Machine" by Wintergatan:
-  https://wintergatan.bandcamp.com/track/marble-machine Marble Machine built and
-  composed by Martin Molin Video filmed and edited by Hannes Knutsson Costume
-  designed by Angelique Nagtegaal See Sommarfågel music video by Wintergatan:
-  https://youtu.be/SBK2AF-NdVA See Starmachine2000 music video by Wintergatan:
-  https://youtu.be/rEeiRXOlWUE Swedish band Wintergatan will play live concerts
-  starting from summer 2016.
-inLanguage: en
+related: []
+author:
+  - name: Wintergatan
+    url: 'https://www.youtube.com/user/wintergatan2000'
+    avatar: {}
+via: {}
+dateModified: '2016-08-29T17:40:12.776Z'
+title: Wintergatan - Marble Machine (music instrument using 2000 marbles)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IvUU8joBb1Q&feature=applinks'
     type: ios
@@ -66,18 +58,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IvUU8joBb1Q'
-title: Wintergatan - Marble Machine (music instrument using 2000 marbles)
-datePublished: '2016-08-29T06:16:48.124Z'
-dateModified: '2016-08-29T06:15:15.580Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: 'A M A Z I N G ! '
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-29-wintergatan-marble-machine-music-instrument-using-2000-ma.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIvUU8joBb1Q%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIvUU8joBb1Q&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIvUU8joBb1Q%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+A M A Z I N G !
