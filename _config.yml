@@ -18,10 +18,6 @@ author:
   email: Vadc@vadc-photo.com
   url: www.vadc-photo.com
 name: əˈklektik
-navigation:
-  - name: Martin TEST
-    id: 43946d1d-1544-455b-b85f-9a8c40e6aa69
-    type: content
 collections:
   - index:
       path: /
