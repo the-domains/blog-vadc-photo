@@ -13,16 +13,16 @@ collections:
       path: '/:title/'
 description: ''
 color:
-  saturation: 0.4048822808545083
+  saturation: 0.3389724
   brandStrength: 0.8007519
-  lightness: 0.5684158897493035
+  lightness: 0.589599
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  rhythmicContrast: 0.08344918955117464
+  rhythmicContrast: 0.5946115
 name: əˈklektik
 author:
   name: Vincent Assante Di Cupillo
