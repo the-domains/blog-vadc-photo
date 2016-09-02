@@ -1,4 +1,27 @@
-title: ''
+typography_spectrum: 0.1710526
+content_rating:
+  adult: false
+color:
+  saturation: 0.2813283
+  brandStrength: 0.8007519
+  rhythmicContrast: 0.2142857
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.768797
+layout_spectrum: 0.5468085
+author:
+  name: Vincent Assante Di Cupillo
+  email: Vadc@vadc-photo.com
+  url: www.vadc-photo.com
+name: əˈklektik
+navigation:
+  - name: Martin
+    id: 43946d1d-1544-455b-b85f-9a8c40e6aa69
+    type: content
 collections:
   - index:
       path: /
@@ -11,24 +34,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: ''
 description: ''
-color:
-  saturation: 0.2813283
-  brandStrength: 0.8007519
-  rhythmicContrast: 0.2142857
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  lightness: 0.768797
-name: əˈklektik
-author:
-  name: Vincent Assante Di Cupillo
-  email: Vadc@vadc-photo.com
-  url: www.vadc-photo.com
-typography_spectrum: 0.1710526
-layout_spectrum: 0.5468085
-content_rating:
-  adult: false
