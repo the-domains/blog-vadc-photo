@@ -5,30 +5,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: ''
 color:
   saturation: 0.2813283
   brandStrength: 0.8007519
-  lightness: 0.768797
+  rhythmicContrast: 0.2142857
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  rhythmicContrast: 0.2142857
+  lightness: 0.768797
 name: əˈklektik
 author:
   name: Vincent Assante Di Cupillo
   email: Vadc@vadc-photo.com
   url: www.vadc-photo.com
 typography_spectrum: 0.1710526
-layout_spectrum: 0.3226817
+layout_spectrum: 0.5468085
 content_rating:
   adult: false
