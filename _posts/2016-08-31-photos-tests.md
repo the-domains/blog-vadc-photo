@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T05:20:36.149Z'
+datePublished: '2016-08-31T05:23:25.384Z'
 sourcePath: _posts/2016-08-31-photos-tests.md
 author: []
 via: {}
-dateModified: '2016-08-31T05:20:35.316Z'
+dateModified: '2016-08-31T05:23:24.676Z'
 title: Photos tests
 publisher: {}
 description: Few HKg Pix
@@ -15,7 +15,7 @@ _type: MediaObject
 
 ---
 # Photos tests
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2149e147-0338-45a9-9835-63524f6ff276.jpg)
+![Test 1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2149e147-0338-45a9-9835-63524f6ff276.jpg)
 
 Few HKg Pix
 
