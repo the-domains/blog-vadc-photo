@@ -19,9 +19,6 @@ author:
   url: www.vadc-photo.com
 name: əˈklektik
 navigation:
-  - name: website
-    url: www.vadc-photo.com
-    type: external
   - name: contact
     url: 'http://www.vadc-photo.com/contact.php'
     type: external
