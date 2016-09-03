@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T15:19:18.673Z'
+datePublished: '2016-08-31T15:28:45.745Z'
+sourcePath: _posts/2016-08-31-about-or-a-propos.md
 author: []
 via: {}
-dateModified: '2016-08-31T15:19:17.663Z'
+dateModified: '2016-08-31T15:28:44.745Z'
 title: ABOUT | à propos
 id: 3f8e1dae-fc74-4e93-87c5-3a9021109b87
 publisher: {}
 description: This place is to complement my existing website.
 starred: false
-sourcePath: _posts/2016-08-31-about-or-a-propos.md
 inFeed: true
 hasPage: false
 inNav: false
