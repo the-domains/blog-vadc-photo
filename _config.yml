@@ -22,11 +22,11 @@ navigation:
   - name: about  |  à propos
     id: 3f8e1dae-fc74-4e93-87c5-3a9021109b87
     type: content
-  - name: contact
-    url: 'http://www.vadc-photo.com/contact.php'
-    type: external
   - name: website
     url: www.vadc-photo.com
+    type: external
+  - name: contact
+    url: 'http://www.vadc-photo.com/contact.php'
     type: external
 collections:
   - index:
