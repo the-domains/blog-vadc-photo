@@ -18,6 +18,10 @@ author:
   email: Vadc@vadc-photo.com
   url: www.vadc-photo.com
 name: əˈklektik
+navigation:
+  - name: Contact
+    url: 'http://www.vadc-photo.com/contact.php'
+    type: external
 collections:
   - index:
       path: /
