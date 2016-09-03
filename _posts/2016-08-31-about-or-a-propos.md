@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T16:24:50.001Z'
+datePublished: '2016-08-31T16:26:18.224Z'
 sourcePath: _posts/2016-08-31-about-or-a-propos.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T16:24:49.182Z'
+dateModified: '2016-08-31T16:26:17.342Z'
 title: ABOUT | à propos
 id: 3f8e1dae-fc74-4e93-87c5-3a9021109b87
 publisher: {}
@@ -22,8 +22,8 @@ Here I would like to share more of my work but not only. We will talk photograph
 
 Cet espace s'ajoute à mon site existant.
 
-Ici j'aimerais partager plus, mon travail mais pas uniquement. Il sera question de photographie mais pas uniquement. N'hésitez pas à me contacter.
+Ici je souhaite partager plus, mon travail mais pas uniquement. Il sera question de photographie mais pas uniquement. N'hésitez pas à me contacter.
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=12" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=22.28750805802536&amp;longitude=114.169921875&amp;zoom=13" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ed18d54-0e84-43fe-9823-a4744a063b82.jpg)
