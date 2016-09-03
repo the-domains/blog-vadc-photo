@@ -1,5 +1,6 @@
-layout_spectrum: 0.4226036099717021
 typography_spectrum: 0.3745259419083595
+content_rating:
+  adult: false
 color:
   saturation: 0.2813283
   brandStrength: 0.8007519
@@ -11,8 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
   lightness: 0.768797
-content_rating:
-  adult: false
+layout_spectrum: 0.4226036099717021
 author:
   name: Vincent Assante Di Cupillo
   email: Vadc@vadc-photo.com
@@ -31,4 +31,4 @@ collections:
       format: rss
       number: 10
 title: ''
-description: ''
+description: Vincent Assante Di Cupillo
