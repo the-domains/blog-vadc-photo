@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T15:11:53.272Z'
+datePublished: '2016-08-31T15:12:10.510Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T15:11:47.488Z'
+dateModified: '2016-08-31T15:12:09.536Z'
 title: ABOUT  |  à propos
 publisher: {}
 description: This place is to complement my existing website.
-starred: false
 sourcePath: _posts/2016-08-31-about-or-a-propos.md
-_type: Blurb
+hasPage: true
+starred: false
+url: about-or-a-propos/index.html
+_type: Article
 
 ---
 # ABOUT | à propos
