@@ -22,6 +22,9 @@ navigation:
   - name: Contact
     url: 'http://www.vadc-photo.com/contact.php'
     type: external
+  - name: website
+    url: www.vadc-photo.com
+    type: external
 collections:
   - index:
       path: /
