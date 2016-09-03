@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T15:50:50.791Z'
+datePublished: '2016-08-31T15:52:02.416Z'
 sourcePath: _posts/2016-08-31-about-or-a-propos.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T15:50:49.618Z'
+dateModified: '2016-08-31T15:52:00.794Z'
 title: ABOUT | à propos
 id: 3f8e1dae-fc74-4e93-87c5-3a9021109b87
 publisher: {}
